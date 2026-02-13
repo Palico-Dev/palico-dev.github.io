@@ -17,7 +17,7 @@ canonifyURLs = true
   # home page profile
   avatar = 'https://palico.dev/images/palico.jpg'                 # gravatar email or image url
   name = 'Pengyu Ren(Max)'
-  bio = 'Game Developer & Game Engine Enthusiast. Currently building a 3D Engine.'
+  bio = 'Game Developer & Game Engine Enthusiast. Currently working on a AI agent(Automatically play game).'
 
 
   # misc
